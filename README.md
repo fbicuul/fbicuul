@@ -1,5 +1,5 @@
+![IMG_7792 (1)](https://user-images.githubusercontent.com/111078933/209933887-6b895274-fb1e-4d60-82c8-5c368f1a8496.jpeg)
 
-![IMG_2615](https://user-images.githubusercontent.com/111078933/209933680-444baf26-0d8e-4be6-8ec0-12f44b8c84d2.jpeg)
 
 A passionate Fullstack developer and Network engineer
 
