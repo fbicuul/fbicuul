@@ -1,7 +1,7 @@
-![IMG_2596](https://user-images.githubusercontent.com/111078933/209933334-53960edc-54f8-4f06-b3e1-f874b74d88e7.jpeg)
 
-A passionate Fullstack developer from Cambodia
+![IMG_2615](https://user-images.githubusercontent.com/111078933/209933680-444baf26-0d8e-4be6-8ec0-12f44b8c84d2.jpeg)
 
+A passionate Fullstack developer and Network engineer
 
 ✨ Ask me about JavaScript, React, Next.js
 
