@@ -1,5 +1,20 @@
 <h2 align="center">Hi 👋, I'm Felix Bamson</h2>
-<h5 align="center">An aspiring SOFTWARE ENGINEER</h5>
+<h5 align="center">A Programmer, Ui-Ux Designer and Network Engineer</h5>
+
+![IMG_7792 (1)](https://user-images.githubusercontent.com/111078933/209933887-6b895274-fb1e-4d60-82c8-5c368f1a8496.jpeg)
+
+# 💫 About Me:
+I'm a passionate Fullstack developer and Network engineer
+
+✨ Ask me about JavaScript, React, Next.js
+
+✨ How to reach me fbicuul@gmail.com
+
+✨ Youtube https://www.youtube.com/channel/UCb85GPhSA75wdi4wyWSnJhQ
+
+
+<br><br>
+
 
 <p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
@@ -38,19 +53,7 @@
 
 
 
-![IMG_7792 (1)](https://user-images.githubusercontent.com/111078933/209933887-6b895274-fb1e-4d60-82c8-5c368f1a8496.jpeg)
 
-# 💫 About Me:
-A passionate Fullstack developer and Network engineer
-
-✨ Ask me about JavaScript, React, Next.js
-
-✨ How to reach me fbicuul@gmail.com
-
-✨ Youtube https://www.youtube.com/channel/UCb85GPhSA75wdi4wyWSnJhQ
-
-
-<br><br>
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mcsavvy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14463304) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UC_TEY46iow-OaE7OVeL9DfA) 
 
