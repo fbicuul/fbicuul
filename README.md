@@ -1,16 +1,12 @@
 <h2 align="center">Hi 👋, I'm Felix Bamson</h2>
-<h5 align="center">A Programmer, Ui-Ux Designer and Network Engineer</h5>
+<h5 align="center">A Programmer and Videographer</h5>
 
 ![IMG_7792 (1)](https://user-images.githubusercontent.com/111078933/209933887-6b895274-fb1e-4d60-82c8-5c368f1a8496.jpeg)
 
 # About Me
-I'm a passionate Fullstack developer and Network engineer
-
-✨ Ask me about JavaScript, React, Next.js
+I'm a passionate programmer and videographer
 
 ✨ How to reach me fbicuul@gmail.com
-
-✨ Youtube https://www.youtube.com/channel/UCb85GPhSA75wdi4wyWSnJhQ
 
 
 <br><br>
